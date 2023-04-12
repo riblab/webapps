@@ -62,7 +62,7 @@ export default function Example() {
             <div className="rounded-3xl shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
               <div className="px-5 pt-4 flex items-center justify-between">
                 <div>
-                  <img className="h-8 w-auto" src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg" alt="" />
+                  <img className="h-8 w-auto" src="https://github.com/riblab/imghostingservice/blob/main/svg/logo.svg" alt="" />
                 </div>
                 <div className="-mr-2">
                   <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-600">
@@ -116,7 +116,7 @@ export default function Example() {
                     <span className="block text-indigo-400">新鲜 | 洞察</span>
                   </h1>
                   <p className="mt-3 text-base text-gray-300 mt-5 text-xl">
-                  A small yet sophisticated design studio, currently specializing in medical illustration and innovative concept design. Designed for problem-solving purposes.
+                  一个小而精的设计工作室,目前在做医学绘图与新概念设计.为解决问题而设计.
                   </p>
                   <div className="mt-10 mt-12">
                     <form action="#" className="max-w-xl mx-auto">
@@ -136,7 +136,7 @@ export default function Example() {
                           <button
                             type="submit"
                             className="block w-full py-3 px-4 rounded-md shadow bg-indigo-500 text-white font-medium hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900">
-                            Start cooperation
+                            合作愉快！
                           </button>
                         </div>
                       </div>

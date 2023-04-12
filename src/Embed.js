@@ -20,7 +20,7 @@ export default function Example() {
               <div className="flex items-center justify-between w-full">
                 <a href="#">
                   <span className="sr-only">Workflow</span>
-                  <img className="w-auto h-10" src="https://tailwindui.com/img/logos/workflow-mark-indigo-500.svg" alt="" />
+                  <img className="w-auto h-10" src="https://github.com/riblab/imghostingservice/blob/main/svg/logo.svg" alt="" />
                 </a>
                 <div className="-mr-2 flex items-center">
                   <Popover.Button className="bg-gray-900 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-white">
@@ -106,17 +106,17 @@ export default function Example() {
                 <div className="">
                   <a href="#" className="inline-flex items-center text-white bg-black rounded-full p-1 pr-2 text-base hover:text-gray-200">
                     <span className="px-3 py-0.5 text-white text-xs font-semibold leading-5 uppercase tracking-wide bg-indigo-500 rounded-full">
-                      We're hiring
+                      RIB·LAB
                     </span>
-                    <span className="ml-4 text-sm">Visit our careers page</span>
+                    <span className="ml-4 text-sm">排骨实验室</span>
                     <ChevronRightIcon className="ml-2 w-5 h-5 text-gray-500" aria-hidden="true" />
                   </a>
                   <h1 className="mt-4 text-4xl tracking-tight font-extrabold text-white mt-5 text-6xl">
-                    <span className="block">A better way to</span>
-                    <span className="block text-indigo-400">ship web apps</span>
+                    <span className="block">RIB·LAB</span>
+                    <span className="block text-indigo-400">新鲜 | 洞察</span>
                   </h1>
                   <p className="mt-3 text-base text-gray-300 mt-5 text-xl">
-                    Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui Lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat.
+                  A small yet sophisticated design studio, currently specializing in medical illustration and innovative concept design. Designed for problem-solving purposes.
                   </p>
                   <div className="mt-10 mt-12">
                     <form action="#" className="max-w-xl mx-auto">
@@ -136,14 +136,14 @@ export default function Example() {
                           <button
                             type="submit"
                             className="block w-full py-3 px-4 rounded-md shadow bg-indigo-500 text-white font-medium hover:bg-indigo-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-300 focus:ring-offset-gray-900">
-                            Start free trial
+                            Start cooperation
                           </button>
                         </div>
                       </div>
                       <p className="mt-3 text-sm text-gray-300 mt-4">
-                        Start your free 14-day trial, no credit card necessary. By providing your email, you agree to our{' '}
+                      我们将在 1-2 个工作日内与您联系,或微信:{' '}
                         <a href="#" className="font-medium text-white">
-                          terms of service
+                        riblab or Mailto: hi@riblab
                         </a>
                         .
                       </p>
@@ -169,7 +169,7 @@ export default function Example() {
                     <div className="absolute inset-0">
                       <img
                         className="h-full w-full object-cover"
-                        src="https://images.unsplash.com/photo-1521737852567-6949f3f9f2b5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2830&q=80&sat=-100"
+                        src="https://github.com/riblab/imghostingservice/blob/main/png/img1.png"
                         alt="People working on laptops"
                       />
                       <div className="absolute inset-0 bg-indigo-700 mix-blend-multiply" />

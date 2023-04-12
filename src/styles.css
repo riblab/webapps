@@ -26,8 +26,8 @@ body,
 }
 
 body {
-  background: rgb(255, 240, 246);
-  background: radial-gradient(circle, rgba(255, 240, 246, 1) 0%, rgba(249, 206, 224, 1) 35%, rgba(255, 163, 201, 1) 100%);
+  background: rgb(219, 229, 255);
+  background: radial-gradient(circle, rgb(169, 178, 255) 0%, rgb(118, 108, 255) 35%, rgb(27, 88, 255) 100%);
 }
 
 .content-container {

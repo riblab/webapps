@@ -20,7 +20,7 @@ export default function Example() {
               <div className="flex items-center justify-between w-full">
                 <a href="#">
                   <span className="sr-only">Workflow</span>
-                  <img className="w-auto h-10" src="https://github.com/riblab/imghostingservice/blob/main/svg/logo.svg" alt="" />
+                  <img className="w-auto h-10" src="%PUBLIC_URL%/logo.svg" alt="" />
                 </a>
                 <div className="-mr-2 flex items-center">
                   <Popover.Button className="bg-gray-900 rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-800 focus:outline-none focus:ring-2 focus-ring-inset focus:ring-white">
@@ -62,7 +62,7 @@ export default function Example() {
             <div className="rounded-3xl shadow-md bg-white ring-1 ring-black ring-opacity-5 overflow-hidden">
               <div className="px-5 pt-4 flex items-center justify-between">
                 <div>
-                  <img className="h-8 w-auto" src="https://github.com/riblab/imghostingservice/blob/main/svg/logo.svg" alt="" />
+                  <img className="h-8 w-auto" src="%PUBLIC_URL%/logo.svg" alt="" />
                 </div>
                 <div className="-mr-2">
                   <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-600">
@@ -154,7 +154,7 @@ export default function Example() {
               <div className="mt-12 -mb-48">
                 <div className="mx-auto max-w-md px-4 max-w-2xl px-6">
                   {/* Illustration taken from Lucid Illustrations: https://lucid.pixsellz.io/ */}
-                  <img className="w-full" src="https://tailwindui.com/img/component-images/cloud-illustration-indigo-400.svg" alt="" />
+                  <img className="w-full" src="%PUBLIC_URL%/logo.svg" alt="" />
                 </div>
               </div>
             </div>
@@ -169,7 +169,7 @@ export default function Example() {
                     <div className="absolute inset-0">
                       <img
                         className="h-full w-full object-cover"
-                        src="https://github.com/riblab/imghostingservice/blob/main/png/img1.png"
+                        src="%PUBLIC_URL%/img1.png"
                         alt="People working on laptops"
                       />
                       <div className="absolute inset-0 bg-indigo-700 mix-blend-multiply" />
